@@ -44,7 +44,7 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ---
 
 ### 🔗 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![Instagram](https://imgs.search.brave.com/sk2agy9fAW1lPgQB2TH6oWNTlDPG5PkEGARb5mwz_io/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/NjY0MDg3MzgxODgt/MjEyYzQ3MGQwOGIw/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjAuMyZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE5IeDhhVzV6/ZEdGbmNtRnRKVEl3/YVdOdmJueGxibnd3/Zkh3d2ZIeDhNQT09.jpeg)](https://instagram.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@) 
 
