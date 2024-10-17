@@ -2,7 +2,7 @@
 
 I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuing a degree in Computer Science.  I have developed a strong foundation in **machine learning (ML)**, **deep learning (DL)**, and **Natural Language Processing (NLP)**. I also have hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/d95427d1-95ba-4932-9c1a-a49d02ffe9ad" width="500" height="320" />
+<img align="right" alt="GIF" src="" width="500" height="320" />
 
 ### More about me:
 - 🔭 I’m currently working on Machine Learning and NLP projects.
@@ -13,10 +13,26 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
   
 ---
 
-### 🛠 Skills:
-- **Languages**: Python, C++, JavaScript, C, Java
-- **Frameworks & Libraries**: React, Node.js, Express.js, Flask
-- **Tools**: Git, GitHub, FAISS, Hugging Face
+### 🛠 Tech Stack:
+
+#### **Languages:**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+
+#### **Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+
+#### **Tools:**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23F37C20.svg?style=flat-square&logo=faiss&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFAE57.svg?style=flat-square&logo=huggingface&logoColor=white)
 
 ---
 
@@ -44,7 +60,7 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ---
 
 ### 🔗 Connect with Me:
-[![Instagram](https://imgs.search.brave.com/sk2agy9fAW1lPgQB2TH6oWNTlDPG5PkEGARb5mwz_io/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/NjY0MDg3MzgxODgt/MjEyYzQ3MGQwOGIw/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjAuMyZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE5IeDhhVzV6/ZEdGbmNtRnRKVEl3/YVdOdmJueGxibnd3/Zkh3d2ZIeDhNQT09.jpeg)](https://instagram.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white))](https://instagram.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@) 
 
