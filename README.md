@@ -2,7 +2,7 @@
 
 I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuing a degree in Computer Science.  I have developed a strong foundation in **machine learning (ML)**, **deep learning (DL)**, and **Natural Language Processing (NLP)**. I also have hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
-<img align="right" alt="GIF" src=" " width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/d95427d1-95ba-4932-9c1a-a49d02ffe9ad" width="500" height="320" />
 
 ### More about me:
 - 🔭 I’m currently working on Machine Learning and NLP projects.
@@ -20,9 +20,9 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 
 ---
 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">Leetcode Info</h2>  
 <p align="center">
-  <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leetcode-badge-1" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="leetcode-panda" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode-badge-2" height="200" width="200" /></a>
 </p>
 <p align="center">
@@ -44,7 +44,15 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ---
 
 ### 🔗 Connect with Me:
-- [GitHub](https://github.com/PradheebanAnandhan)
-- [LinkedIn](https://www.linkedin.com/in/pradheeban/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@) 
+
+---
+
+### ✍ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
