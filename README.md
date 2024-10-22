@@ -40,7 +40,7 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 <p align="center">
   <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="leetcode-panda" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="leetcode-badge-2" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="leetcode-badge-3" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/pradheeban15/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="leetcode-badge-3" height="200" width="200" /></a>
   
 </p>
 <p align="center">
