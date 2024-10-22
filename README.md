@@ -29,9 +29,9 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-%2302b875.svg?style=flat-square&logo=nltk&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23497FBE.svg?style=flat-square&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%2302b875.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23497FBE.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 #### **Web Technologies:**
