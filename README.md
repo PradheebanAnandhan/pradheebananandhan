@@ -69,7 +69,6 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradheebanAnandhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradheebanAnandhan&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradheebanAnandhan)
-![Contributions](https://badgen.net/github/contributions/PradheebanAnandhan)
 
 </div>
 
