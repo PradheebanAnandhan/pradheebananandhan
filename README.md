@@ -33,6 +33,7 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ![LangChain](https://img.shields.io/badge/LangChain-%23497FBE.svg?style=flat-square&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
 
+
 #### **Web Technologies:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
