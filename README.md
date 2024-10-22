@@ -15,24 +15,37 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 
 ### 🛠 Tech Stack:
 
-#### **Languages:**
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+#### **Programming Languages:**
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
-#### **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+#### **Libraries:**
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=flat-square&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%2302b875.svg?style=flat-square&logo=nltk&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23497FBE.svg?style=flat-square&logo=langchain&logoColor=white)
 
-#### **Tools:**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%23F37C20.svg?style=flat-square&logo=faiss&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFAE57.svg?style=flat-square&logo=huggingface&logoColor=white)
+#### **Web Technologies:**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+
+#### **Query Languages:**
+![SQL](https://img.shields.io/badge/SQL-%23447777.svg?style=flat-square&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+#### **Core Skills:**
+- **Artificial Intelligence (AI)**
+- **Machine Learning (ML)**
+- **Deep Learning (DL)**
+- **Natural Language Processing (NLP)**
+- **Data Structures and Algorithms**
+- **Operating Systems (OS)**
 
 ---
 
@@ -56,13 +69,14 @@ I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PradheebanAnandhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PradheebanAnandhan&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradheebanAnandhan)
+![Contributions](https://badgen.net/github/contributions/PradheebanAnandhan)
 
 </div>
 
 ---
 
 ### 🔗 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white))](https://instagram.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@) 
 
