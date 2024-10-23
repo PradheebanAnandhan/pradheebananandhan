@@ -1,6 +1,6 @@
 # Hi there, I'm Pradheeban 👋
 
-I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuing a degree in Computer Science.  I have developed a strong foundation in **machine learning (ML)**, **deep learning (DL)**, and **Natural Language Processing (NLP)**. I also have hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
+I am a third-year student at *Sri Eshwar College of Engineering (SECE)*, pursuing a degree in Computer Science.  I have developed a strong foundation in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Natural Language Processing (NLP)**. I also have hands-on experience in the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 <img align="right" alt="GIF" src="" width="500" height="320" />
 
