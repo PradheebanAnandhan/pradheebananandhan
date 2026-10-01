@@ -22,6 +22,8 @@ I build practical, production-ready AI products: LLM-powered systems, voice-base
 **Engineering Trainee, Telesoft Technologies** (Jun 2025 – Jan 2026)
 Built real-time monitoring dashboards for cybersecurity and telecom software with React.js, integrating REST APIs to fetch, process and visualize live data.
 
+Currently Working At Softura
+
 ---
 
 ## 📄 Publications
