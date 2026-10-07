@@ -1,113 +1,62 @@
-# Hey, I'm Pradheeban 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Pradheeban A. AI/ML engineer working on LLM systems, RAG and voice agents. Currently at Softura." src="assets/header-light.svg" width="100%">
+</picture>
 
-**AI/ML Engineer** · Generative AI · RAG pipelines · Full-stack development
-B.E. in Computer Science (AI & ML), Sri Eshwar College of Engineering · IEEE-published researcher
+I work on applied AI: LLM applications backed by retrieval, multi-agent systems, voice interfaces, and the React front ends that make them usable. I'm currently at **Softura**. Before that I spent eight months on a network security product at Telesoft Technologies. I studied Computer Science (AI & ML) at Sri Eshwar College of Engineering and have published two papers on conversational and agentic AI.
 
-I build practical, production-ready AI products: LLM-powered systems, voice-based agents, and clean React interfaces that put them in people's hands.
+Right now I'm focused on what it takes to move LLM and RAG systems from a demo to production: deploying models on Azure, and trying React Native for AI-backed mobile apps.
 
----
+## Work
 
-## 💼 Experience
+**Softura** · *current*
 
-**Softura** (Current)
+**Telesoft Technologies (UK)** · Engineering Trainee · *Jun 2025 – Jan 2026*\
+Worked on IntSOC, an AI-powered network detection and response (NDR) platform for real-time security monitoring. I built frontend features in React and TypeScript, wrote the Node.js and REST integrations behind its live monitoring views, and worked through stability and performance issues with the engineering team in the UK.
 
-**Engineering Trainee, Telesoft Technologies (UK)**, Delhi NCR (Jun 2025 – Jan 2026)
-- Contributed to **IntSOC**, an AI-powered Network Detection and Response (NDR) platform for real-time network security monitoring
-- Built and enhanced frontend features with React and TypeScript
-- Developed backend integrations with Node.js and REST APIs for real-time data visualization and system monitoring
-- Worked with a UK-based engineering team to debug issues and improve system stability and performance
+## Projects
 
----
+**PrepWise** · *2026*\
+Interview preparation run by a multi-agent LLM system. It reviews a candidate's resume, matches it against job roles, and runs voice-based mock interviews that finish with personalised coaching. The design is published in IRJAEH (below). Built with agentic AI, LLMs, NLP and React.
 
-## 🚀 Featured Projects
+**ASTRA** · *2025*\
+A voice assistant that helps people find their way around and get information by just asking. Each question goes through a RAG pipeline before the LLM answers, so replies are grounded in real information and come with a visual alongside the spoken response. Built with LLMs, RAG and generative AI.
 
-| Project | What it does | Stack |
-|---|---|---|
-| **PrepWise, AI Interview Coach** (2026) | AI-driven platform that helps students improve resumes, match job roles and practice interviews through voice-based simulations, using a multi-agent system for personalized feedback and coaching | Agentic AI, LLMs, NLP, React.js |
-| **ASTRA, AI-Powered Interactive Guidance System** (2025) | Voice-based conversational assistant that helps users find locations and information through natural language, using an LLM + RAG pipeline for real-time answers with visual support | LLMs, RAG, Generative AI |
-| **Anomaly Detection System** (2024) | Detects suspicious activity (e.g. shoplifting, assault) in surveillance footage by combining spatial and temporal modeling, trained on the UCF Crime dataset | CNN, LSTM, Python, Streamlit |
+**Anomaly detection for CCTV** · *2024*\
+Flags events like shoplifting and assault in surveillance footage. A CNN reads each frame and an LSTM tracks how those features change over time, so the model reacts to what is happening rather than to a single still. Trained on the UCF-Crime dataset, with a Streamlit front end. Built in Python.
 
----
+## Papers
 
-## 📄 Publications
+- **Multi-Agent Personalized Interview Coach: An AI-Powered Platform for Career Readiness**\
+  IRJAEH, 2025 · [doi:10.47392/IRJAEH.2025.0575](https://doi.org/10.47392/IRJAEH.2025.0575)
+- **Marching Forward: Redefining Human–Machine Interactions in Conversational AI Through Hybrid Intelligence, Blockchain Security, and Autonomous Agents**\
+  IEEE ICCES, 2024 · [doi:10.1109/ICCES63552.2024.10859659](https://doi.org/10.1109/ICCES63552.2024.10859659)
 
-- **Multi-Agent Personalized Interview Coach: An AI-Powered Platform for Career Readiness**, IRJAEH, 2025 · [DOI](https://doi.org/10.47392/IRJAEH.2025.0575)
-- **Marching Forward: Redefining Human–Machine Interactions in Conversational AI Through Hybrid Intelligence, Blockchain Security, and Autonomous Agents**, IEEE ICCES, 2024 · [DOI](https://doi.org/10.1109/ICCES63552.2024.10859659)
+## Toolbox
 
----
+**AI / ML:** LLMs, RAG, LangChain, embeddings, agent systems, prompt engineering, Transformers, PyTorch, TensorFlow, scikit-learn, Hugging Face\
+**Web:** React, TypeScript, Node.js, Express, REST APIs, Flask, HTML/CSS\
+**Languages:** Python, TypeScript, C, C++, Java, SQL\
+**Data & tools:** MongoDB, Git, Colab, Figma
 
-## 🎓 Education
+## Elsewhere
 
-**B.E. Computer Science & Engineering (AI & ML)**, Sri Eshwar College of Engineering, 2022 – 2026 · CGPA 8.0
+- 1st place, Ideathon, Karpagam College · 2nd place, Hackathon, Sengunthar College of Engineering · 2nd place, Project Expo, Karpagam College (all 2024)
+- Selected as one of 30 official content creators for KGeN.io out of 250+ applicants
+- Passed the Japanese Language Proficiency Test (JLPT) at level N5
 
----
-
-## 🧰 Tech Stack
-
-**Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-**Generative AI:** LLMs · RAG · LangChain · Embeddings · Agentic AI Systems · Prompt Engineering
-
-**ML / DL:** Machine Learning · Deep Learning · NLP · Transformers · TensorFlow · PyTorch · scikit-learn · Hugging Face
-
-**Web & Backend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) · REST APIs
-
-**CS Fundamentals:** Data Structures & Algorithms · Operating Systems · DBMS
-
-**Tools:** Git · GitHub · VS Code · Google Colab · Hugging Face · Figma · Canva
-
----
-
-## 📜 Certifications
+<details>
+<summary>Certifications</summary>
 
 - Supervised Machine Learning, DeepLearning.AI & Stanford University (2024)
 - Mastering DSA using C and C++, Udemy (2024)
 - HackerRank: Python, SQL (2024)
-- Japanese Language Proficiency Test, **N5** (2024)
 - Crash Course on Python, Coursera (2023)
 
----
-
-## 🏆 Achievements
-
-- Top 30 of 250+ applicants, Official Content Creator at **KGeN.io** (gaming & Web3 platform)
-- 🥇 1st Place, Ideathon, Karpagam College (2024, cash prize)
-- 🥈 2nd Place, Hackathon, Sengunthar College of Engineering (2024, cash prize)
-- 🥈 2nd Place, Project Expo, Karpagam College (2024, cash prize)
-
-**Competitive programming:** [LeetCode](https://leetcode.com/u/pradheeban15/) · [CodeChef](https://www.codechef.com/users/pradheeban15) · HackerRank
+</details>
 
 ---
 
-## 🌱 Currently Exploring
+[pradheebananand@gmail.com](mailto:pradheebananand@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pradheeban/) · [LeetCode](https://leetcode.com/u/pradheeban15/) · [CodeChef](https://www.codechef.com/users/pradheeban15)
 
-- Taking LLM and RAG systems from prototype to production
-- Deploying ML models in real environments (Azure)
-- Mobile experiences powered by AI (React Native)
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/pradheeban15?theme=dark&font=Nunito&ext=heatmap" />
-</p>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradheebanAnandhan)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to AI/ML and Generative AI roles, and always happy to talk RAG, agentic systems, NLP or full-stack builds.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradheebananand@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/pradheeban15/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/pradheeban15)
-
-*I like building something, breaking it, fixing it, and learning something new each time. That's what keeps me excited about tech.*
+Open to AI/ML and generative AI roles. Happy to talk about RAG, agents, NLP or full-stack work.
