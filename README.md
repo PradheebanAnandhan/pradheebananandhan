@@ -1,89 +1,55 @@
-# Hey, I'm Pradheeban 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Pradheeban A. AI/ML engineer working on LLM systems, RAG and voice agents. Currently at Softura." src="assets/header-light.svg" width="100%">
+</picture>
 
-**AI/ML Engineer** · Generative AI · RAG pipelines · Full-stack development
-B.E. in Computer Science (AI & ML), Sri Eshwar College of Engineering · IEEE-published researcher
+### hey, i'm pradheeban 👋
 
-I build practical, production-ready AI products: LLM-powered systems, voice-based agents, and clean React interfaces that put them in people's hands.
+I build AI that talks back. Mostly LLM apps with RAG, a few too many agents talking to each other, voice interfaces, and the React front ends people actually click on.
 
----
+- 🛠️ building things at **Softura** right now
+- 🛰️ before that, I worked on parts of **IntSOC**, an AI network-security platform, at Telesoft (UK)
+- 📄 2 papers out on conversational and agentic AI ([IEEE](https://doi.org/10.1109/ICCES63552.2024.10859659), [IRJAEH](https://doi.org/10.47392/IRJAEH.2025.0575))
+- 🎌 learning Japanese: JLPT N5 done, a few thousand kanji to go
+- 💬 ask me about RAG, agents, or why your LLM is confidently wrong
 
-## 🚀 Featured Projects
+#### things i've made
 
-| Project | What it does | Stack |
-|---|---|---|
-| **PrepWise, AI Interview Coach** | Multi-agent platform for resume optimization and interview prep, with voice-based mock interviews and adaptive, personalized feedback | LLMs, NLP, Agentic AI, React.js |
-| **ASTRA, AI-Powered Interactive Guidance System** | Voice-based conversational assistant for real-time navigation, using an LLM + RAG pipeline for context-aware answers with visual responses | LLMs, RAG, Generative AI |
-| **Anomaly Detection System** | Detects suspicious activity (e.g. shoplifting, assault) in surveillance video by combining spatial and temporal features, trained on the UCF dataset | CNN, LSTM, Python, Streamlit |
+- **PrepWise**: an interview coach made of agents. It reads your resume, finds roles that fit, then interviews you out loud and tells you what to fix. It turned into a paper.
+- **ASTRA**: ask it where something is, out loud. It looks things up with RAG before answering, and shows you as well as tells you.
+- **CCTV anomaly detector**: a CNN + LSTM that watches surveillance footage and flags shoplifting and assaults.
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 💼 Experience
+#### recently pushed
+<!-- recent:start -->
+_Fills in automatically once the Update README workflow runs._
+<!-- recent:end -->
 
-**Engineering Trainee, Telesoft Technologies** (Jun 2025 – Jan 2026)
-Built real-time monitoring dashboards for cybersecurity and telecom software with React.js, integrating REST APIs to fetch, process and visualize live data.
+</td>
+<td valign="top" width="50%">
 
-Currently Working At Softura
+#### currently
+- getting RAG apps from "works on my laptop" to production
+- deploying models on Azure
+- poking at React Native for AI on phones
+- grinding [LeetCode](https://leetcode.com/u/pradheeban15/) and [CodeChef](https://www.codechef.com/users/pradheeban15) when the build is slow
 
----
+</td>
+</tr>
+</table>
 
-## 📄 Publications
-
-- **Multi-Agent Personalized Interview Coach: An AI-Powered Platform for Career Readiness**, IRJAEH, 2025 · [DOI](https://doi.org/10.47392/IRJAEH.2025.0575)
-- **Marching Forward: Redefining Human–Machine Interactions in Conversational AI**, IEEE ICCES, 2024 · [DOI](https://doi.org/10.1109/ICCES63552.2024.10859659)
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-
-**Generative AI:** LLMs · RAG · LangChain · Embeddings · Agentic AI Systems · Prompt Engineering
-
-**ML / DL:** Deep Learning · NLP · Transformers · TensorFlow · PyTorch · scikit-learn · Hugging Face
-
-**Web & Backend:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-
-**Tools:** Git · GitHub · VS Code · Google Colab · Canva
-
----
-
-## 🏆 Achievements
-
-- Top 30 of 250+ applicants, Official Content Creator at **KGeN.io** (gaming & Web3 platform)
-- 🥇 1st Place, Ideathon, Karpagam College
-- 🥈 2nd Place, Hackathon, Sengunthar College of Engineering
-- 🥈 2nd Place, Project Expo, Karpagam College
-- Japanese Language Proficiency Test, **N5**
-
----
-
-## 🌱 Currently Exploring
-
-- Taking LLM and RAG systems from prototype to production
-- Deploying ML models in real environments (Azure)
-- Mobile experiences powered by AI (React Native)
-
----
-
-## 📊 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PradheebanAnandhan/pradheebananandhan/output/snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PradheebanAnandhan/pradheebananandhan/output/snake-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pradheeban15?theme=dark&font=Nunito&ext=heatmap" />
+  <a href="mailto:pradheebananand@gmail.com">email</a> ·
+  <a href="https://www.linkedin.com/in/pradheeban/">linkedin</a> ·
+  <a href="https://leetcode.com/u/pradheeban15/">leetcode</a>
+  <br>
+  <sub>open to AI/ML and GenAI roles. say hi.</sub>
 </p>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradheebanAnandhan)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to AI/ML and Generative AI roles, and always happy to talk RAG, agentic systems, NLP or full-stack builds.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradheeban/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradheebananand@gmail.com)
-
-*I like building something, breaking it, fixing it, and learning something new each time. That's what keeps me excited about tech.*
