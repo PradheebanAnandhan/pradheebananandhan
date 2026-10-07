@@ -25,7 +25,15 @@ I build AI that talks back. Mostly LLM apps with RAG, a few too many agents talk
 
 #### recently pushed
 <!-- recent:start -->
-_Fills in automatically once the Update README workflow runs._
+[FixLoop](https://github.com/PradheebanAnandhan/FixLoop) · <sub>06 Oct 2026</sub>
+
+[Drive-MCP](https://github.com/PradheebanAnandhan/Drive-MCP) · <sub>30 Sep 2026</sub>
+
+[AI-Model-Evolution](https://github.com/PradheebanAnandhan/AI-Model-Evolution) · <sub>30 Sep 2026</sub>
+
+[Portfolio](https://github.com/PradheebanAnandhan/Portfolio) · <sub>26 Aug 2026</sub>
+
+[Smart-Travel](https://github.com/PradheebanAnandhan/Smart-Travel) · <sub>10 Apr 2026</sub>
 <!-- recent:end -->
 
 </td>
